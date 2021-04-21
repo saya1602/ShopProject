@@ -2,3 +2,6 @@ The title of my mini project is online **_Sport store_**, where customers allowe
 ##
 ##
 So below you can see ERD for my tables which are connected with each other. And also I showed the relations between them.
+##
+##
+![ERD](https://user-images.githubusercontent.com/78614334/115611521-9f6ecc00-a303-11eb-945f-dead0bedfe1f.png)
